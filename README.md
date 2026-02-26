@@ -58,4 +58,4 @@ The script highlights cells that belong to the reconstructed path using Pandas s
 Install:
 
 ```bash
-pip install streamlit numpy pandas
+pip install Requirements.txt
